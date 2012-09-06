@@ -5,8 +5,9 @@ using std::endl;
 int euler(int n);
 
 int main() {
-	//cout<<"Hello World!"<<endl;
+	cout<<"Hello World!"<<endl;
 	
+
 	//Problem 1
 	cout<<"The answer is: "<<euler(1000)<<endl;
 	return 0;
